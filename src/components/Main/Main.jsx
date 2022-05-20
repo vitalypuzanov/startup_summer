@@ -5,8 +5,7 @@ import * as ReactBootstrap from 'react-bootstrap';
 import Repos from './Repos/Repos';
 
 const Main = ({ data, repositories, reposPerPage, totalRepos, currentRepos, paginate, loading }) => {
-  console.log('мои репозитории', repositories);
-  console.log('статус загрзуки', loading);
+
 
   return (
     <>

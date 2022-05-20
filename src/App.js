@@ -26,7 +26,7 @@ function App() {
       setData(null);
       setError(true);
 
-      console.log('Ошибка блять системы');
+     
     }
   }
 
